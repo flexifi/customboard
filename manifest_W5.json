@@ -1,0 +1,12 @@
+{
+  "name": "WIFI5SOFT",
+  "version": "4.1",
+  "builds": [
+    {
+      "chipFamily": "ESP32",
+      "parts": [
+        { "path": "firmware/W5.bin", "offset": 0 }
+      ]
+    }
+  ]
+}
