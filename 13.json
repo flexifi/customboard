@@ -1,9 +1,9 @@
 {
-  "name": "DeautherX 1.3",
-  "version": "2.0.0",
+  "name": "Juanfi 1.3",
+  "version": "4.3",
   "builds": [
     {
-      "chipFamily": "ESP8266",
+      "chipFamily": "ESP32",
       "parts": [
         { "path": "firmware/13.bin", "offset": 0 }
       ]
