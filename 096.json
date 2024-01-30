@@ -5,7 +5,7 @@
     {
       "chipFamily": "ESP32",
       "parts": [
-        { "path": "firmware/096.bin", "offset": 0 }
+        { "path": "firmware/WIFI5SUB41.bin", "offset": 0 }
 
       ]
     }
